@@ -1,6 +1,6 @@
 # mongodb-basic
 
-# This repo dedicates for mongoDB cheatsheets and note for basic NoSQL knowledge
+This repo dedicates for mongoDB cheatsheets and note for basic NoSQL knowledge
 
 # Note
 There are 3 ways to run MongoDB
