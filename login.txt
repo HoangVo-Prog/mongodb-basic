@@ -1,0 +1,1 @@
+mongosh "mongodb+srv://cluster0.nmvtsrq.mongodb.net/" --apiVersion 1 --username HoangVo
